@@ -6,12 +6,12 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAYurYzuSNddRen-zKRD4OMIi1atykOnuk",
-  authDomain: "admin-panel-706a5.firebaseapp.com",
-  projectId: "admin-panel-706a5",
-  storageBucket: "admin-panel-706a5.appspot.com",
-  messagingSenderId: "361099372252",
-  appId: "1:361099372252:web:3fc792417fac11cf71f619"
+  apiKey: "AIzaSyAmMk4HtcUNfqHlqYWtqHNsltCDK7plz3M",
+  authDomain: "gogogm.firebaseapp.com",
+  projectId: "gogogm",
+  storageBucket: "gogogm.appspot.com",
+  messagingSenderId: "1024812633503",
+  appId: "1:1024812633503:web:1ddaa89b1d4640e96cc1aa"
 };
 
 // Initialize Firebase
