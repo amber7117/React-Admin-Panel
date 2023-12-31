@@ -34,7 +34,7 @@ const Login = () => {
     <div className="login">
       <form onSubmit={handleLogin}>
         <h2>WenDev Admin</h2>
-        <img src={panel} alt="WenDev Admin" />
+        <img src={panel} alt="GOGOGM Admin" />
         <input
           type="email"
           placeholder="email"
