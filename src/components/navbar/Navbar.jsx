@@ -24,9 +24,9 @@ const Navbar = () => {
             <TranslateIcon className="icon" />
             <select className="select">
               <option>English</option>
-              <option>French</option>
+              <option>中文</option>
+              <option>Melayu</option>
               <option>Spanish</option>
-              <option>Italian</option>
             </select>
           </div>
           <div className="item">
