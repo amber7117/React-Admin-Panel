@@ -33,7 +33,7 @@ const Login = () => {
   return (
     <div className="login">
       <form onSubmit={handleLogin}>
-        <h2>WenDev Admin</h2>
+        <h2>GOGOGM Admin</h2>
         <img src={panel} alt="GOGOGM Admin" />
         <input
           type="email"
