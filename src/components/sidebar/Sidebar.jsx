@@ -24,7 +24,7 @@ const Sidebar = () => {
       <div className="top">
         <img src={panel} alt="favicon" />
         <Link to="/" style={{ textDecoration: "none" }}>
-          <span className="logo">WenDev Admin</span>
+          <span className="logo">GOGOGM Admin</span>
         </Link>
       </div>
       <hr />
