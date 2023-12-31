@@ -5,7 +5,7 @@ import { auth } from "../../firebase";
 import { useNavigate } from "react-router-dom";
 import { AuthContext } from "../../context/AuthContext";
 
-import panel from "./panel.png";
+import panel from "./logo2.png";
 
 const Login = () => {
   const [error, setError] = useState(false);
